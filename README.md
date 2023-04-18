@@ -1,4 +1,4 @@
-# 👨‍💻 Miyuko Wu
+# Miyuko Wu
 
 ## 📝 About Me
 
