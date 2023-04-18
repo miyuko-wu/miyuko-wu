@@ -1,16 +1,15 @@
-### Hi there 👋
+# Miyuko Wu
 
-<!--
-**miyuko-wu/miyuko-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an experienced website developer. My expertise lies in using Laravel and Vue.js to develop high-quality web applications. Throughout my career, I have worked on a variety of projects ranging from small business websites to large-scale enterprise applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Laravel
+- Vue.js
+- HTML/CSS
+- JavaScript
+- Bootstrap
+- MySQL
+- Git
